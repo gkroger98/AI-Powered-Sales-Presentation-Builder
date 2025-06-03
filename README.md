@@ -1,7 +1,5 @@
 # AI-Powered-Sales-Presentation-Builder
 
-# Automated PowerPoint Deck Builder from AI-Generated JSON
-
 ## Overview
 
 This Python project automates the creation of PowerPoint presentations by reading structured slide data from AI-generated JSON files. It recursively scans a directory for `.json` slide files, parses the content, replaces placeholders with actual values, and builds a fully formatted `.pptx` deck.
